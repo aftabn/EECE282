@@ -1,9 +1,6 @@
 
 //  receiverRobot.c
-// (c) Jesus Calvino-Fraga 2014
 // (c) Team Mango
-// Not to be copied, used, or revised without explicit written
-// permission from the copyright owners.
 //
 #include <stdio.h>
 #include <stdlib.h>
